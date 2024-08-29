@@ -1,6 +1,8 @@
 <div align="center">
 
-# asdf-cosmo-router [![Build](https://github.com/GodTamIt/asdf-cosmo-router/actions/workflows/build.yml/badge.svg)](https://github.com/GodTamIt/asdf-cosmo-router/actions/workflows/build.yml) [![Lint](https://github.com/GodTamIt/asdf-cosmo-router/actions/workflows/lint.yml/badge.svg)](https://github.com/GodTamIt/asdf-cosmo-router/actions/workflows/lint.yml)
+# asdf-cosmo-router
+
+[![Build](https://github.com/GodTamIt/asdf-cosmo-router/actions/workflows/build.yml/badge.svg)](https://github.com/GodTamIt/asdf-cosmo-router/actions/workflows/build.yml) [![Lint](https://github.com/GodTamIt/asdf-cosmo-router/actions/workflows/lint.yml/badge.svg)](https://github.com/GodTamIt/asdf-cosmo-router/actions/workflows/lint.yml)
 
 [cosmo-router](https://wundergraph.com/router-gateway) plugin for the [asdf version manager](https://asdf-vm.com).
 
